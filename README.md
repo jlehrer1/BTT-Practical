@@ -12,8 +12,8 @@ Open `Terminal.app`, and paste the following:
 ```
 git clone https://github.com/jlehrer1/BTT-Practical.git
 cd BTT-Practical/
-chmod +x required.sh
-./required.sh
+chmod +x requirements.sh
+./requirements.sh
 cd ..
 rm -rf BTT-Practical
 ```
