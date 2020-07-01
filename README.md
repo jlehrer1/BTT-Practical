@@ -1,5 +1,4 @@
 # BTT-Practical
-<hr>
 
 A complete Macbook Pro Touch Bar overhaul, focused on a clean, minimalistic
 design for those interested in hardware stats, essential developer tools and
