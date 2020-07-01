@@ -41,5 +41,5 @@ rm -rf BTT-Practical
 **4-finger swipe**: keyboard backlight control
 
 ## Packages
-[iStats](https://github.com/Chris911/iStats) to display fan speed. 
+[iStats](https://github.com/Chris911/iStats) to display fan speed.  
 [osx-cpu-temp](https://github.com/lavoiesl/osx-cpu-temp) to display cpu temperature. Although iStats also has this information, `osx-cpu-temp` is significantly faster.  
