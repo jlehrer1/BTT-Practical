@@ -6,7 +6,7 @@ quick, intuitive shortcuts.
 
 This runs on BetterTouchTool, which can be purchased [here](https://folivora.ai/buy). 
 
-# Installation
+## Installation
 In order to get certain system information that is displayed on the Touch Bar,
 you will need to install some `brew` and `gem` packages (the list can be found in `requirements.sh`). If you aren't a 
 developer, don't worry, it's all handled for you. However, you will still have to install the `XCode Developer Tools` if you haven't already, which will take up about 4GB of storage and may require a password. 
