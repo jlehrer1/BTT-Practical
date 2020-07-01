@@ -1,4 +1,6 @@
 # BTT-Practical
+<hr>
+
 A BetterTouchTool preset focused on a clean, minimalistic design for those interested in hardware stats and essential developer tools. 
 
 Required packages:
@@ -18,6 +20,15 @@ cd ..
 rm -rf BTT-Practical
 ```
 
-Future plans:
+## Screenshots:
 
+## Triggers:
+
+## Shortcuts:
+<hr>
+
+### ⌘ Command 
+**⌘ + Shift + 8**: Snap window to left  
+**⌘ + Shift + 9**: Snap window to center  
+**⌘ + Shift + 0**: Snap window to right  
 
