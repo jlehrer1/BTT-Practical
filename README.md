@@ -9,9 +9,9 @@ This runs on BetterTouchTool, which can be purchased [here](https://folivora.ai/
 ## Installation
 In order to get certain system information that is displayed on the Touch Bar,
 you will need to install some `brew` and `gem` packages (the list can be found in `requirements.sh`). If you aren't a 
-developer, don't worry, it's all handled for you. However, you will still have to install the `XCode Developer Tools` if you haven't already, which will take up about 4GB of storage and may require a password. 
+developer, you will still have to download the `XCode Developer Tools` if you haven't already, which will take up about 4GB of storage and may require a password during installation. This is official Apple software. If this is unfamiliar, don't worry. The entire process is handled for you. 
 
-To install, open `Terminal.app`, and paste the following:
+To install, simply open `Terminal.app` (Terminal), and paste the following:
 ```
 git clone https://github.com/jlehrer1/BTT-Practical.git
 cd BTT-Practical/
