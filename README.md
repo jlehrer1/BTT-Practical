@@ -28,7 +28,6 @@ rm -rf BTT-Practical
 \<Add\>
 
 ## Shortcuts:
-<hr>
 
 ### ⌘ Command 
 **⌘ + Shift + 8**: Snap window to left  
