@@ -2,7 +2,7 @@
 
 A complete Macbook Pro Touch Bar overhaul, focused on a clean, minimalistic
 design for those interested in hardware stats, essential developer tools and
-quick and intuitive shortcuts. 
+quick, intuitive shortcuts. 
 
 This runs on BetterTouchTool, which can be purchased [here](https://folivora.ai/buy). 
 
