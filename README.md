@@ -25,14 +25,17 @@ rm -rf BTT-Practical
 Default:  
 ![Default](https://github.com/jlehrer1/BTT-Practical/blob/master/screenshots/Default.png)
 
+Alt-Menu: 
+![altmenu](TODO)
+
 Now playing:  
 ![Nowplaying](https://github.com/jlehrer1/BTT-Practical/blob/master/screenshots/Now_playing.png)
 
 Terminal:
 ![Terminal](https://github.com/jlehrer1/BTT-Practical/blob/master/screenshots/Terminal.png)
 
-## Triggers:
-\<Add\>
+Discord: 
+![Discord](https://github.com/jlehrer1/BTT-Practical/blob/master/screenshots/discord.png)
 
 ## Shortcuts:
 
