@@ -22,7 +22,7 @@ rm -rf BTT-Practical
 ```
 
 ## Screenshots:
-![Default](https://github.com/jlehrer1/BTT-Practical/blob/master/Default.png)
+![Default](https://github.com/jlehrer1/BTT-Practical/blob/master/Default.png "Default")
 
 ## Triggers:
 \<Add\>
