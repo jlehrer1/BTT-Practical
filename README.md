@@ -50,15 +50,15 @@ Discord:
 **⌘ + Shift + |**: Show all tabs and search. 
 
 ### Terminal (tmux)
-**⌘ + Shift + }**: New pane on side.  
-**⌘ + Shift + {**: New pane below. 
-**⌘ + Shift + O**: Cycle panes. 
-**⌘ + Shift + -**: Close current pane. 
+**⌘ + Shift + }**: New pane on side.   
+**⌘ + Shift + {**: New pane below.  
+**⌘ + Shift + O**: Cycle panes.  
+**⌘ + Shift + -**: Close current pane.   
 
 ## Gestures
-**2-finger swipe**: volume control  
-**3-finger swipe**: brightness control  
-**4-finger swipe**: keyboard backlight control
+**2-finger swipe**: volume control    
+**3-finger swipe**: brightness control    
+**4-finger swipe**: keyboard backlight control. 
 
 ## Packages
 [iStats](https://github.com/Chris911/iStats) to display fan speed.  
