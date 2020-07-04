@@ -39,10 +39,21 @@ Discord:
 
 ## Shortcuts:
 
+### General:
 ### ⌘ Command 
 **⌘ + Shift + 8**: Snap window to left  
 **⌘ + Shift + 9**: Snap window to center  
 **⌘ + Shift + 0**: Snap window to right  
+
+### Safari:
+**⌘ + Shift + M**: Merge all windows
+**⌘ + Shift + |**: Show all tabs and search
+
+### Terminal (tmux)
+**⌘ + Shift + }**: New pane on side 
+**⌘ + Shift + {**: New pane below
+**⌘ + Shift + O**: Cycle panes
+**⌘ + Shift + -**: Close current pane
 
 ## Gestures
 **2-finger swipe**: volume control  
