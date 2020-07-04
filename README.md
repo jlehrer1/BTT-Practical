@@ -48,6 +48,7 @@ Discord:
 ### Safari:
 **⌘ + Shift + M**: Merge all windows. 
 **⌘ + Shift + |**: Show all tabs and search. 
+**⌘ + Shift + K**: Put current tab into new window. 
 
 ### Terminal (tmux)
 **⌘ + Shift + }**: New pane on side.   
