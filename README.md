@@ -64,5 +64,4 @@ An alt menu is available via **^+⌥**, **cntrl+opt**.
 **4-finger swipe**: Keyboard backlight control. 
 
 ## Packages
-[iStats](https://github.com/Chris911/iStats) to display fan speed.  
 [osx-cpu-temp](https://github.com/lavoiesl/osx-cpu-temp) to display cpu temperature. Although iStats also has this information, `osx-cpu-temp` is significantly faster.  
