@@ -25,9 +25,6 @@ rm -rf BTT-Practical
 Default:  
 ![Default](https://github.com/jlehrer1/BTT-Practical/blob/master/screenshots/Default.png)
 
-Alt-Menu: 
-![altmenu](TODO)
-
 Now playing:  
 ![Nowplaying](https://github.com/jlehrer1/BTT-Practical/blob/master/screenshots/Now_playing.png)
 
@@ -37,6 +34,7 @@ Terminal:
 Discord: 
 ![Discord](https://github.com/jlehrer1/BTT-Practical/blob/master/screenshots/discord.png)
 
+An alt menu is available via **^+⌥**, **cntrl+opt**.
 ## Shortcuts:
 
 ### General:
@@ -54,12 +52,19 @@ Discord:
 **⌘ + Shift + }**: New pane on side.   
 **⌘ + Shift + {**: New pane below.  
 **⌘ + Shift + O**: Cycle panes.  
-**⌘ + Shift + -**: Close current pane.   
+**⌘ + Shift + -**: Close current pane.
+
+**⌘ + Shift + J**: Resize window left.   
+**⌘ + Shift + L**: Resize window right.   
+**⌘ + Shift + K**: Resize window down.   
+**⌘ + Shift + I**: Resize window up.   
+
+
 
 ## Gestures
-**2-finger swipe**: volume control    
-**3-finger swipe**: brightness control    
-**4-finger swipe**: keyboard backlight control. 
+**2-finger swipe**: Volume control    
+**3-finger swipe**: Brightness control    
+**4-finger swipe**: Keyboard backlight control. 
 
 ## Packages
 [iStats](https://github.com/Chris911/iStats) to display fan speed.  
