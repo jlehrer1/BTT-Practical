@@ -28,9 +28,6 @@ Default:
 Now playing:  
 ![Nowplaying](https://github.com/jlehrer1/BTT-Practical/blob/master/screenshots/Now_playing.png)
 
-Terminal:
-![Terminal](https://github.com/jlehrer1/BTT-Practical/blob/master/screenshots/Terminal.png)
-
 Discord: 
 ![Discord](https://github.com/jlehrer1/BTT-Practical/blob/master/screenshots/discord.png)
 
