@@ -36,14 +36,14 @@ An alt menu is available via **^+⌥**, **cntrl+opt**.
 
 ### General:
 ### ⌘ Command 
-**⌘ + Shift + 8**: Snap window to left. 
-**⌘ + Shift + 9**: Snap window to center. 
-**⌘ + Shift + 0**: Snap window to right. 
+**⌘ + Shift + 8**: Snap window to left.  
+**⌘ + Shift + 9**: Snap window to center.  
+**⌘ + Shift + 0**: Snap window to right.  
  
 ### Safari:
-**⌘ + Shift + M**: Merge all windows. 
-**⌘ + Shift + |**: Show all tabs and search. 
-**⌘ + Shift + K**: Put current tab into new window. 
+**⌘ + Shift + M**: Merge all windows.  
+**⌘ + Shift + |**: Show all tabs and search.  
+**⌘ + Shift + K**: Put current tab into new window.  
 
 ### Terminal (tmux)
 **⌘ + Shift + }**: New pane on side.   
